@@ -23,6 +23,6 @@ Thumbs.db
 # Environment variables
 .env
 
-# Project specific (if any)
+# Databases (if any)
 *.db
 *.sqlite
