@@ -323,7 +323,7 @@ class RedCorePro:
         self.continuous_running = False
         print(f"\n{Colors.GREEN}{Colors.BOLD}")
         print("╔════════════════════════════════════════╗")
-        print("║     THANK YOU FOR USING REDCORE!      ║")
+        print("║     THANK YOU FOR USING REDCORE!       ║")
         print("║     Total Attacks Sent: " + str(self.attack_count).ljust(10) + "       ║")
         print("╚════════════════════════════════════════╝")
         print(f"{Colors.END}")
